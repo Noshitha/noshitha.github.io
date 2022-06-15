@@ -10,6 +10,19 @@ header:
 excerpt: >
   Some cool data visualizations using D3, Tableau / Big Data Analysis.
 feature_row2:
+  - image_path: /assets/images/choropleth.jpg
+    alt: "customizable"
+    title: "Data & Visual Analytics of NFT Dashboard"
+    excerpt: "NFT Big data Analytics & dashboard - Built on large volumes of Opensea trading data and Twitter sentiment scraping. <br><br>
+    *Toolkit:  Html, D3.js, Django * <br>
+    
+   [Read the project report](https://printatestpage.com)"
+    url: "https://github.com/tejajuttu/nftdashboard"
+    btn_class: "btn--primary"
+    btn_label: "Learn more - Github"
+    
+    
+    
   - image_path: /assets/images/covid-19.jpg
     alt: "customizable"
     title: "Big Data Pipeline for Covid 19 Analysis"
@@ -27,6 +40,9 @@ feature_row2:
     url: "https://github.com/gmadhu89/Map_Vis"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
+
+    
   - image_path: /assets/images/argo-lite.jpg
     alt: "customizable"
     title: "Co-actor network visualization"
