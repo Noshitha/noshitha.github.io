@@ -10,7 +10,7 @@ header:
 excerpt: >
   Some cool data visualizations using D3, Tableau / Big Data Analysis.
 feature_row2:
-  - image_path: /assets/images/choropleth.jpg
+  - image_path: /assets/images/NFTDashboard.png
     alt: "customizable"
     title: "Data & Visual Analytics of NFT Dashboard"
     excerpt: "NFT Big data Analytics & dashboard - Built on large volumes of Opensea trading data and Twitter sentiment scraping. <br><br>
