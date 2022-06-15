@@ -16,7 +16,7 @@ feature_row2:
     excerpt: "NFT Big data Analytics & dashboard - Built on large volumes of Opensea trading data and Twitter sentiment scraping. <br><br>
     *Toolkit:  Html, D3.js, Django * <br>
     
-   [Watch the poster presentation here](https://youtu.be/YBc_D5ybyCo)
+   [Watch the poster presentation here](https://youtu.be/YBc_D5ybyCo) <br>
    [Project report and poster ](https://drive.google.com/drive/folders/1oXlceMtDPrrwLhfWIw61tbcwqP6sEXKV?usp=sharing)"
     url: "https://github.com/tejajuttu/nftdashboard"
     btn_class: "btn--primary"
