@@ -10,17 +10,17 @@ header:
 excerpt: >
   Some cool data visualizations using D3, Tableau / Big Data Analysis.
 feature_row2:
-  - image_path: /assets/images/NFTDashboard.png
+  - image_path: /assets/images/nftimage.jpg
     alt: "customizable"
     title: "Data & Visual Analytics of NFT Dashboard"
     excerpt: "NFT Big data Analytics & dashboard - Built on large volumes of Opensea trading data and Twitter sentiment scraping. <br><br>
     *Toolkit:  Html, D3.js, Django * <br>
     
-   [Read the project report](https://printatestpage.com)"
+   [Watch the poster presentation here](https://youtu.be/YBc_D5ybyCo)
+   [Project report and poster ](https://drive.google.com/drive/folders/1oXlceMtDPrrwLhfWIw61tbcwqP6sEXKV?usp=sharing)"
     url: "https://github.com/tejajuttu/nftdashboard"
     btn_class: "btn--primary"
     btn_label: "Learn more - Github"
-    
     
     
   - image_path: /assets/images/covid-19.jpg
