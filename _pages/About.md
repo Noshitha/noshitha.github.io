@@ -24,6 +24,10 @@ My other interests include adventure activites like kayaking, caving, biking and
 
   
 ## Experience
+- **Ernst & Young** (Jul 2022 - Present)  
+  *Senior Data Science Consultant*
+- **PlayerZero.AI** (Jan-Apr'22)  
+  *Product Data Science Intership *  
 - **Ernst & Young** (2017 - 2018)  
   *Associate Consultant*
 - **American Express** (2018 - 2020)  
