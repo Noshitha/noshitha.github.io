@@ -8,7 +8,7 @@ header:
 ---
 
 
-I am a Graduate student pursuing MS in Data Analytics at Georgia Institute of Technology double specializing in Computational Data Analytics and Business Analytics.
+I'm a Senior Data Science consultant at EY - Data and Analytics practice. Having worked for more than 4 years in Data and Business, I recently graduated with MS in Data Analytics at Georgia Institute of Technology with double specialization in Computational Data Science and Business Analytics.
 My primary interests are in the fields of Data science, product analytics, predictive analytical modeling, Machine Learning and in fact, everything about data.  
 
 
