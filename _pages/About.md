@@ -7,10 +7,20 @@ header:
   image: /assets/images/tech.jpg
 ---
 
-I was a Management Consultant with EY (Strategy) for 1.5 years and a Business Analyst with American Express (prescriptive digital analytics) for 2 years. 
-During these stints, I designed, led and implemented Project Finace solutions - PPP projects in public health. Prescribed data driven digital marketing strategies across the globe. Worked with governments and teams across India, Germany, Austria, Italy, Kenya, Cambodia and USA. 
+I'm an experienced data scientist with a passion for tackling complex business challenges using cutting-edge AI and machine learning techniques. My experience spans across various industries, from developing end-to-end ML solutions for a Fortune 200 manufacturing company to optimizing marketing campaigns across Europe.
 
-During my graduate program, I furthered my skillset with advanced data science techniques including Deep Learning, Machine learning, design of experiments etc to name a few. Before i realised, I fell in love with programming, statistics and grew passion towards the tech innovations. 
+Highlights from my journey:
+
+Leadership: Led a team of developers to build impactful ML solutions for a Fortune 200 Retail client, improving their strategic decision-making.
+Generative AI: Pioneered the use of generative AI for building chatbots and enhancing context retrieval accuracy to enhance customer service process flows.
+Demand Forecasting: Developed and deployed Deep Learning models for optimizing inventory management, leading to improved forecast accuracy.
+Customer Service Optimization: Designed a data-driven method for distributor segmentation, resulting in efficient service delivery.
+Impactful Projects: Increased revenue for a leading financial institution and implemented a $21 million public health project impacting millions of lives.
+Beyond the code: I'm a strong believer in clear communication and collaboration. My passion for data extends beyond technical expertise; it's about unlocking insights and building products that drive tangible business results.
+
+What excites me: I'm constantly seeking opportunities to learn and explore new applications of AI. Working at the forefront of technological innovation and collaborating with talented individuals motivates me.
+
+
 My other interests include adventure activites like kayaking, caving, biking and strategy games like dota, chess and 100's of card games. 
 
 ## Education
