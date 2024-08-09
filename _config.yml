@@ -101,17 +101,17 @@ analytics:
 # Site Author - Side Bar
 author:
   name             : "Teja Juttu"
-  avatar           : "/assets/images/tejabw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS Computational Data Analytics @ Georgia Tech aspiring for Machine Learning / Data Science positions."
-  location         : "Atlanta, GA, USA"
-  email            : "teja.j@gatech.edu"
+  avatar           : "/assets/images/IMG_0315.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Sr.Data Science Consultant"
+  location         : "San Francisco, CA, USA"
+  email            : "shanmukha.iit@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   github           : "tejajuttu"
   linkedin         : "shanmukhateja"
-  Resume           : "https://drive.google.com/file/d/1Fwl5nFzcuwlkonG0gyiii2PbHlP0_lMs/view?usp=sharing"
+  Resume           : "https://drive.google.com/file/d/13xkf90iQLhuSLdS4YJtYaJCCEdX7rwqV/view?usp=sharing"
   scholar          : #"citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : 
 
