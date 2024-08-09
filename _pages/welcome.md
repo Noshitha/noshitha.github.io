@@ -15,7 +15,7 @@ Here's where the magic happens: I'm passionate about harnessing the power of dat
 > "Do we settle for the world as it is, or do we work for the world as it should be?" — Barack Obama
 
 
-This website showcases some of my graduate school projects, where I used these tools to make a tangible impact on the world.
+This website showcases some of my graduate school projects, where I used these tools to solve interesting problems.
 
 
 **Navigation:**  
