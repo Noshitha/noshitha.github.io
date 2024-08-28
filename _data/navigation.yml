@@ -6,9 +6,9 @@ main:
      url: /bio/
    - title: "Machine Learning"
      url: /ML/
-   - title: "Visualizations"
-     url: /vis/
    - title: "Publications"
      url: /publications/
    - title: "Programming"
      url: /prog/
+   - title: "Visualizations"
+     url: /vis/
