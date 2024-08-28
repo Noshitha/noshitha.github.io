@@ -12,7 +12,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" # "air" , "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air" , "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -101,10 +101,11 @@ analytics:
 # Site Author - Side Bar
 author:
   name             : "Noshitha Juttu"
-  avatar           : "/assets/images/IMG_0315.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/noshitha-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  
  # bio              : "Sr.Data Science Consultant"
   bio              : "MS CS Student <br><br>
-                     <img src='/assets/images/UMassLogo.png' alt='University of Massachusetts, Amherst'><br>"
+                     <alt='University of Massachusetts, Amherst'><br>"
   location         : "Amherst, MA, USA"
   email            : "njuttu@umass.edu"
   uri              :
