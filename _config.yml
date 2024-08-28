@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" # "air" , "default", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shanmukha Teja Juttu"
+title                    : "Noshitha Padma Pratyusha Juttu"
 title_separator          : "-"
-name                     : "Teja Juttu" #####Doesn't change anything?
+name                     : "Noshitha Juttu" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
-url                      : "https://tejajuttu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://noshithajuttu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gmadhu89/tejajuttu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Noshitha/noshithajuttu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -100,18 +100,20 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Teja Juttu"
-  avatar           : "/assets/images/IMG_0315.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sr.Data Science Consultant"
-  location         : "San Francisco, CA, USA"
-  email            : "shanmukha.iit@gmail.com"
+  name             : "Noshitha Juttu"
+  avatar           : "/assets/images/IMG_0315.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+ # bio              : "Sr.Data Science Consultant"
+  bio              : "MS CS Student <br><br>
+                     <img src='/assets/images/UMassLogo.png' alt='University of Massachusetts, Amherst'><br>"
+  location         : "Amherst, MA, USA"
+  email            : "njuttu@umass.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  github           : "tejajuttu"
-  linkedin         : "shanmukhateja"
-  Resume           : "https://drive.google.com/file/d/13xkf90iQLhuSLdS4YJtYaJCCEdX7rwqV/view?usp=sharing"
+  github           : "Noshitha"
+  linkedin         : "Noshitha Juttu"
+  #Resume           : "https://drive.google.com/file/d/13xkf90iQLhuSLdS4YJtYaJCCEdX7rwqV/view?usp=sharing"
   scholar          : #"citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : 
 

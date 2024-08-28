@@ -8,9 +8,7 @@ main:
      url: /ML/
    - title: "Visualizations"
      url: /vis/
+   - title: "Publications"
+     url: /publications/
    - title: "Programming"
      url: /prog/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
