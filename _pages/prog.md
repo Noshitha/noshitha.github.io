@@ -18,7 +18,7 @@ feature_row2:
     url: "https://github.com/Noshitha/Number-Game"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/gamble-game.jpg
+  - image_path: /assets/images/roulette_logo.jpeg
     alt: "customizable"
     title: "Roulette Simulator"
     excerpt: "Welcome to the Roulette Simulation Application! This project is a simple yet engaging simulation of a classic roulette game built using Python's Tkinter library for the graphical user interface (GUI). <br><br>
