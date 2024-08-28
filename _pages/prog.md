@@ -18,6 +18,7 @@ feature_row2:
     url: "https://github.com/Noshitha/Number-Game"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    image_classes: "fixed-size"
   - image_path: /assets/images/roulette_logo.jpeg
     alt: "customizable"
     title: "Roulette Simulator"
@@ -26,5 +27,6 @@ feature_row2:
     url: "https://github.com/Noshitha/Roulette-Simulation"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    image_classes: "fixed-size"
 ---
 {% include feature_row id="feature_row2" type="left" %}

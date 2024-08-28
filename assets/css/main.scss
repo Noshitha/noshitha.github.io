@@ -4,6 +4,13 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Import Minimal Mistakes skins and main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
+// Custom CSS for fixed-size images
+.fixed-size {
+  width: 200px; /* Set your desired width */
+  height: 200px; /* Set your desired height */
+  object-fit: cover; /* Ensures the image scales to fill the width and height while maintaining its aspect ratio */
+}
