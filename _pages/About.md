@@ -24,16 +24,16 @@ What excites me: I’m constantly seeking opportunities to learn and explore new
 
 ## Education
 - **University of Massachusetts, Amherst** (2024 - Present).   
-  - *MS. Computer Science * 
+  - *MS. Computer Science* 
 
 - **VNR VJIET** (2017 - 2021)   
   -  *B.Tech Information Technology*
 
 ## Experience
-- **Deloitte ** (Sept 2021 - Jan 2024)  
+- **Deloitte** (Sept 2021 - Jan 2024)  
   *AI&DE Analyst*
 - **Innodatatics** (Jun 2019 - Aug 2019)  
-  *Data Science Intership *  
+  *Data Science Intership*  
 
 ## Skills
 - **Deep Learning**: TensorFlow, PyTorch, Opencv
