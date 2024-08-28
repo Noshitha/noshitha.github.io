@@ -7,53 +7,40 @@ header:
   image: /assets/images/tech.jpg
 ---
 
-I'm an experienced data scientist with a passion for tackling complex business challenges using cutting-edge AI and machine learning techniques. My experience spans across various industries, from developing end-to-end ML solutions for a Fortune 200 manufacturing company to optimizing marketing campaigns across Europe.
+I’m an experienced AI and Data Engineering professional with a passion for leveraging cutting-edge AI and machine learning techniques to solve complex challenges. My experience spans across various industries, from developing end-to-end ML solutions for a Fortune 500 Utilities company to enhancing data security and optimizing data processing pipelines.
 
 Highlights from my journey:
+Leadership: Led a team in the development of a centralized data lake and upgraded authentication systems for a Fortune 500 Utilities company, significantly improving data security and reducing data processing times by 30\%.
+Deep Learning: Pioneered the use of deep learning techniques to develop an AI-based chatbot for internal use, enhancing customer support capabilities and reducing response times by 40\%.
+Predictive Analytics: Developed and deployed ML models for predicting customer churn in the airline industry, leading to a 15\% improvement in customer retention strategies.
+Impactful Projects: Led an impactful project to build a chatbot, donating the project’s technical assets to a local municipal council to enhance the user experience in addressing local community queries.
+Data Engineering: Architected and implemented a scalable ETL pipeline using PySpark and Databricks, which processed over 5TB of data daily and improved data processing efficiency by 50\%.
+Research and Development: Co-authored "Development of Artificial Intelligence-Based Chatbot Using Deep Neural Network," published by the Soft Computing Research Society in November 2021. This paper introduced innovative methods for enhancing chatbot performance using deep learning techniques.
 
-Leadership: Led a team of developers to build impactful ML solutions for a Fortune 200 Retail client, improving their strategic decision-making.
-Generative AI: Pioneered the use of generative AI for building chatbots and enhancing context retrieval accuracy to enhance customer service process flows.
-Demand Forecasting: Developed and deployed Deep Learning models for optimizing inventory management, leading to improved forecast accuracy.
-Customer Service Optimization: Designed a data-driven method for distributor segmentation, resulting in efficient service delivery.
-Impactful Projects: Increased revenue for a leading financial institution and implemented a $21 million public health project impacting millions of lives.
-Beyond the code: I'm a strong believer in clear communication and collaboration. My passion for data extends beyond technical expertise; it's about unlocking insights and building products that drive tangible business results.
-
-What excites me: I'm constantly seeking opportunities to learn and explore new applications of AI. Working at the forefront of technological innovation and collaborating with talented individuals motivates me.
+Beyond the code: I’m a strong believer in clear communication and collaboration. My passion for data extends beyond technical expertise; it’s about unlocking insights and building products that drive tangible business results.
+What excites me: I’m constantly seeking opportunities to learn and explore new applications of AI. Working at the forefront of technological innovation and collaborating with talented individuals motivates me. My other interests include adventure activities like climbing, kayaking, and biking, as well as playing strategic card games.
 
 
-My other interests include adventure activites like kayaking, caving, biking and strategy games like dota, chess and 100's of card games. 
 
 ## Education
-- **Georgia Institute of Technology** (2021 - 2022).   
-  - *MS. Analytics (Double Specialization: Computational Data Analytics + Business Analytics)* 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/1200px-Georgia_Tech_Yellow_Jackets_logo.svg.png" width="50" height="40">
+- **University of Massachusetts, Amherst** (2024 - Present).   
+  - *MS. Computer Science * 
 
-- **Indian Institue of Technology (IIT) Madras** (2013 - 2017)   
-  -  *B.E. Engineering*
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" width="45" height="45">
+- **VNR VJIET** (2017 - 2021)   
+  -  *B.Tech Information Technology*
 
-  
 ## Experience
-- **Ernst & Young** (Jul 2022 - Present)  
-  *Senior Data Science Consultant*
-- **PlayerZero.AI** (Jan-Apr'22)  
-  *Product Data Science Intership *  
-- **Ernst & Young** (2017 - 2018)  
-  *Associate Consultant*
-- **American Express** (2018 - 2020)  
-  *Business Analyst*
-  
-
-## Academic Roles
-- **Graduate Teaching Assistant** (Jan 2021 - Present)  
-  *Georgia Institute of Technology*
+- **Deloitte ** (Sept 2021 - Jan 2024)  
+  *AI&DE Analyst*
+- **Innodatatics** (Jun 2019 - Aug 2019)  
+  *Data Science Intership *  
 
 ## Skills
-- **Deep Learning**: TensorFlow, PyTorch, Opencv, Numpy
+- **Deep Learning**: TensorFlow, PyTorch, Opencv
 - **Machine Learning Libraries**: scikit-learn, numpy, pandas, Random Forest, XGBoost, SVM, KNN, Naïve Bayes, Logistic / Linear Regression
 - **Statistics**: Experimental designs, data analysis, data cleansing, feature engineering, forecasting, descriptive and inferential statistical analysis
-- **Programming**: Python, R
-- **Database**: SQL, NoSQL, Snowflake, Teradata
-- **Web Programming**: D3.js
-- **Big Data**: Hadoop, Hive, Data Modeling
+- **Programming**: Python, R, Scala, C++
+- **Database**: SQL, NoSQL, Snowflake
+- **Cloud**: AWS
+- **Big Data**: Hadoop, Data Modeling, PySpark, Databricks, NiFi
 - **Other**: Unix, Shell Scripting, Git
