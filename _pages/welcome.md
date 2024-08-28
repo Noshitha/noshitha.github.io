@@ -8,15 +8,11 @@ header:
 ---
 
 
-Tired of the status quo? Me too. That's why I leverage my experience as a Senior Consultant at EY's AI & Data practice, coupled with a double major in Computational Data Science and Business Analytics from Georgia Tech, to bridge the gap between cutting-edge technology and real-world business needs.
+I am a Graduate student pursuing MS in Computer Science at University of Massachusetts, Amherst.
 
-Here's where the magic happens: I'm passionate about harnessing the power of data science, product analytics, machine learning, and predictive modeling to tackle complex challenges.
-
-> "Do we settle for the world as it is, or do we work for the world as it should be?" — Barack Obama
-
+My primary interests are in the fields of Data science, product analytics, predictive analytical modeling, Machine Learning and in fact, everything about data.  
 
 This website showcases some of my graduate school projects, where I used these tools to solve interesting problems.
-
 
 **Navigation:**  
 **Bio:** My background and skills  
