@@ -10,12 +10,12 @@ header:
 excerpt: >
   Simulations and more programming.
 feature_row2:
-  - image_path: /assets/images/tic-tac-toe.jpg
+  - image_path: /assets/images/number_guessing_logo.jpeg
     alt: "customizable"
-    title: "Tic-Tac-Toe"
-    excerpt: "Want to play a game of tic-tac-toe ? Here is an implementation using Python. <br><br>
-    *Toolkit:  Python* <br>"
-    url: "https://github.com/gmadhu89/python-learning/blob/master/TIC%20TAC%20TOE.ipynb"
+    title: "Number Guessing Game"
+    excerpt: "Want to play a game of Number Guessing ? Here is an implementation using Java. <br><br>
+    *Toolkit:  Java Swing, built on top of the Java AWT (Abstract Window Toolkit)* <br>"
+    url: "https://github.com/Noshitha/Number-Game"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/gamble-game.jpg
