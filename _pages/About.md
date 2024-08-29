@@ -4,9 +4,8 @@ permalink: /bio/
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/tech.jpg
+  image: /assets/images/Umass_Amherst_Skyline.jpg
 ---
-
 I’m an experienced AI and Data Engineering professional with a passion for leveraging cutting-edge AI and machine learning techniques to solve complex challenges. My experience spans across various industries, from developing end-to-end ML solutions for a Fortune 500 Utilities company to enhancing data security and optimizing data processing pipelines.
 
 *Highlights from my journey:* 
@@ -37,7 +36,7 @@ I’m an experienced AI and Data Engineering professional with a passion for lev
 ## Experience
 - **Deloitte** (Sept 2021 - Jan 2024)
   *AI&DE Analyst*
-- **Innodatatics** (Jun 2019 - Aug 2019)\\  
+- **Innodatatics** (Jun 2019 - Aug 2019)  
   *Data Science Internship*  
 
 ## Skills

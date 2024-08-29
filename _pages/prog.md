@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/progbkg.jpg
+  overlay_image: /assets/images/programming.jpg
 excerpt: >
   Simulations and more programming.
 feature_row2:
