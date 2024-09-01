@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/programming.jpg
 excerpt: >
-  Simulations and more programming.
+  More programming.
 feature_row2:
   - image_path: /assets/images/number_guessing_logo.jpeg
     alt: "customizable"
